@@ -1,2 +1,2 @@
-# Synthetic-Images-DCGANs
-Generating synthetic images using DCGANs
+# List of Computer Vision Projects
+
